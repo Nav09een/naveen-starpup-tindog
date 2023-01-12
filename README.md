@@ -1,1 +1,1 @@
-# naveen-starpup-tindog
+# naveen-startup-tindog
